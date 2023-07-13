@@ -1,8 +1,7 @@
 # CppND-System-Monitor
 
-Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
+This project implements a Linux based process manager, similar to htop. Linux stores information about  processes in a couple of files. The code written reads from those files, extracts the important data, formats it and uses Ncurses to display them inside the console.
 
-Follow along with the classroom lesson to complete the project!
 
 ![System Monitor](images/monitor.png)
 
